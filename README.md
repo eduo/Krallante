@@ -1,0 +1,2 @@
+# Krallante
+Small Card Game
