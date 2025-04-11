@@ -1,0 +1,103 @@
+## REINO DE FUEGO
+
+**Campeones:**
+- Dragón Carmesí (x1) - ATQ: 4, DEF: 3, VIDA: 5
+  * Habilidad: Fulgor Desatado - Una vez por turno, puede infligir 2 puntos de daño a cualquier criatura.
+- Guerrero Volcánico (x1) - ATQ: 3, DEF: 4, VIDA: 4
+  * Habilidad: Armadura Incandescente - Cuando es atacado, causa 1 punto de daño a su atacante.
+- Fénix Imperial (x1) - ATQ: 2, DEF: 2, VIDA: 6
+  * Habilidad: Renacimiento - La primera vez que es derrotado, en su lugar restaura 2 puntos de vida.
+
+**Criaturas:**
+- Salavandra (x2) - ATQ: 2, DEF: 1, VIDA: 3
+  * Ignición - Causa +1 de daño a criaturas de Aire.
+- Ánima Ígnea (x2) - ATQ: 1, DEF: 1, VIDA: 2
+  * Sacrificio Ardiente - Puedes destruir esta carta para infligir 3 puntos de daño a una criatura enemiga.
+- Rescoldo Voraz (x2) - ATQ: 3, DEF: 0, VIDA: 4
+  * Cuerpo Candente - No puede ser bloqueado por criaturas con 2 o menos de Defensa.
+
+**Hechizos:**
+- Erupción Súbita (x2) - Causa 3 puntos de daño a un campeón enemigo.
+- Muro de Llamas (x2) - Tus criaturas ganan +1 de Defensa hasta tu próximo turno.
+
+**Equipos:**
+- Espada Ígnea (x1) - El portador gana +2 de Ataque. Si el portador es de Fuego, también gana +1 de Vida.
+- Amuleto del Fénix (x1) - Si el portador sería derrotado, puedes destruir este equipo en su lugar.
+
+## REINO DE AGUA
+
+**Campeones:**
+- Serpiente Marina (x1) - ATQ: 3, DEF: 2, VIDA: 6
+  * Habilidad: Corriente Veloz - Esta criatura puede atacar en el mismo turno en que es invocada.
+- Tritón Guardián (x1) - ATQ: 2, DEF: 5, VIDA: 4
+  * Habilidad: Escudo de Coral - Una vez por turno, puede prevenir todo el daño a una criatura aliada.
+- Leviatán Ancestral (x1) - ATQ: 5, DEF: 1, VIDA: 5
+  * Habilidad: Torrente - Cuando ataca, el oponente no puede bloquear con criaturas con 2 o menos de Ataque.
+
+**Criaturas:**
+- Medusa Abisal (x2) - ATQ: 2, DEF: 2, VIDA: 3
+  * Paralizar - Cuando daña a una criatura, esa criatura no puede atacar en el próximo turno de su controlador.
+- Pez Linterna (x2) - ATQ: 1, DEF: 1, VIDA: 2
+  * Revelación - Cuando entra en juego, mira las 3 cartas superiores del mazo de tu oponente.
+- Cangrejo Acorazado (x2) - ATQ: 1, DEF: 4, VIDA: 3
+  * Caparazón Reforzado - Reduce en 2 el daño que recibe de criaturas de Tierra.
+
+**Hechizos:**
+- Diluvio (x2) - Devuelve una criatura enemiga a la mano de su dueño.
+- Tsunami (x2) - Todas las criaturas enemigas reciben -1 de Ataque hasta tu próximo turno.
+
+**Equipos:**
+- Tridente de las Mareas (x1) - El portador gana +1 de Ataque y +1 de Defensa. Si el portador es de Agua, puede atacar a dos objetivos diferentes en un mismo turno.
+- Corona del Océano (x1) - El portador es inmune a los efectos de las cartas de Fuego.
+
+## REINO DE TIERRA
+
+**Campeones:**
+- Golem de Piedra (x1) - ATQ: 3, DEF: 5, VIDA: 4
+  * Habilidad: Cuerpo Pétreo - Reduce a la mitad (redondeando hacia abajo) el daño recibido de hechizos.
+- Guardián del Bosque (x1) - ATQ: 4, DEF: 2, VIDA: 5
+  * Habilidad: Regeneración - Al inicio de tu turno, recupera 1 punto de vida.
+- Rey de las Montañas (x1) - ATQ: 5, DEF: 3, VIDA: 4
+  * Habilidad: Avalancha - Cuando ataca, todas las criaturas enemigas reciben -1 de Defensa hasta el final del turno.
+
+**Criaturas:**
+- Oso Ancestral (x2) - ATQ: 4, DEF: 2, VIDA: 3
+  * Furia Salvaje - Gana +1 de Ataque por cada punto de daño que tenga.
+- Escorpión Gigante (x2) - ATQ: 2, DEF: 1, VIDA: 3
+  * Veneno - Cuando daña a una criatura, esa criatura recibe 1 punto de daño al inicio de su próximo turno.
+- Espíritu del Roble (x2) - ATQ: 1, DEF: 3, VIDA: 4
+  * Fortaleza Natural - Tus otras criaturas y campeones de Tierra ganan +1 de Defensa.
+
+**Hechizos:**
+- Terremoto (x2) - Todas las criaturas reciben 2 puntos de daño. Las criaturas de Tierra reciben solo 1 punto de daño.
+- Escudo de Guijarros (x2) - Una criatura objetivo gana +3 de Defensa hasta tu próximo turno.
+
+**Equipos:**
+- Garrote de Granito (x1) - El portador gana +3 de Ataque. Si el portador es de Tierra, su daño no puede ser reducido por la Defensa enemiga.
+- Armadura de Raíces (x1) - El portador gana +2 de Defensa y no puede ser objetivo de hechizos de Agua.
+
+## REINO DE AIRE
+
+**Campeones:**
+- Águila Celestial (x1) - ATQ: 3, DEF: 2, VIDA: 5
+  * Habilidad: Evasión Aérea - Cuando ataca, el oponente solo puede bloquearlo con criaturas o campeones de Aire.
+- Hada de la Tormenta (x1) - ATQ: 2, DEF: 3, VIDA: 4
+  * Habilidad: Ráfaga - Una vez por turno, puede hacer que una criatura enemiga no pueda bloquear este turno.
+- Señor de los Cielos (x1) - ATQ: 4, DEF: 1, VIDA: 6
+  * Habilidad: Vendaval - Cuando entra en juego, devuelve todas las cartas de Equipo a las manos de sus dueños.
+
+**Criaturas:**
+- Grifo Vigía (x2) - ATQ: 3, DEF: 1, VIDA: 3
+  * Evasión Aérea - Cuando ataca, el oponente solo puede bloquearlo con criaturas o campeones de Aire.
+- Espíritu del Viento (x2) - ATQ: 1, DEF: 1, VIDA: 2
+  * Desvanecimiento - Puedes devolver esta carta a tu mano para evitar que una de tus criaturas reciba daño.
+- Halcón Mensajero (x2) - ATQ: 2, DEF: 1, VIDA: 2
+  * Mensajería - Cuando entra en juego, roba una carta.
+
+**Hechizos:**
+- Torbellino (x2) - Devuelve todas las criaturas a las manos de sus dueños.
+- Niebla Protectora (x2) - Tus criaturas no pueden ser objetivo de habilidades o hechizos enemigos hasta tu próximo turno.
+
+**Equipos:**
+- Arco del Cielo (x1) - El portador gana +2 de Ataque y puede atacar directamente a los puntos de vida del oponente. +2 Ataque adicional si el portador es de Aire.
+- Alas Plateadas (x1) - El portador gana la habilidad "Evasión Aérea" y +1 de Ataque. Si ya tiene "Evasión Aérea", gana +2 de Ataque en su lugar.

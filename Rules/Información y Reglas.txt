@@ -1,0 +1,67 @@
+## Concepto General
+Es un juego de cartas de batalla original. Se basa en un mundo dividido en cuatro reinos elementales (Fuego, Agua, Tierra y Aire) donde cada jugador controla campeones, criaturas y hechizos para derrotar al oponente.
+
+## Objetivo del Juego
+Ser el primer jugador en derrotar a todos los campeones del oponente o reducir sus puntos de vida a cero.
+
+## Componentes
+- Campeones: Personajes principales (3 por jugador)
+- Criaturas: Aliados que luchan (máximo 3 en juego)
+- Hechizos: Efectos de un solo uso
+- Equipos: Mejoras permanentes para campeones y criaturas
+- Contadores de vida (20 puntos iniciales por jugador)
+
+## Mecánica Elemental
+- Fuego vence a Aire
+- Aire vence a Tierra
+- Tierra vence a Agua
+- Agua vence a Fuego
+
+## Preparación Inicial
+1. Cada jugador elige un mazo de 40 cartas (incluye 3 campeones)
+2. Cada jugador coloca sus 3 campeones boca arriba en su zona
+3. Cada jugador comienza con 20 puntos de vida
+4. Cada jugador roba 5 cartas iniciales
+5. Se determina al azar quién juega primero
+
+## Estructura del Turno
+1. **Fase de Robo**: Roba una carta (excepto en el primer turno del primer jugador)
+2. **Fase Principal**:
+   - Invocar hasta una criatura
+   - Jugar cartas de Equipo
+   - Jugar cartas de Hechizo
+   - Usar habilidades de campeones o criaturas
+3. **Fase de Ataque**:
+   - Se declaran atacantes
+   - El oponente declara bloqueadores
+   - Se resuelve el combate
+   - Si un ataque no es bloqueado, el atacante decide dirigir el daño:
+     * A un campeón enemigo
+     * O directamente a los puntos de vida del jugador
+4. **Fase Final**: Efectos de final de turno, descartar hasta 7 cartas en mano
+
+## Reglas de Combate
+- ATQ - DEF = daño real infligido
+- Cuando una unidad recibe daño igual o mayor a su VIDA, es derrotada
+- Las ventajas elementales otorgan +1 de daño
+
+## Condiciones de Victoria
+- Derrotar a todos los campeones del oponente
+- Reducir los puntos de vida del oponente a cero
+- Si un jugador no puede robar cuando debe hacerlo
+
+## Área de Juego
+- Zona de Campeones (hasta 3)
+- Zona de Criaturas (hasta 3)
+- Área de Mano
+- Mazo
+- Contador de Vida
+
+## Características Especiales
+- Cada reino tiene su propio estilo de juego:
+  * Fuego: Daño directo y ataque agresivo
+  * Agua: Velocidad, evasión y control
+  * Tierra: Defensa y supervivencia
+  * Aire: Movilidad y efectos especiales
+
+El mazo básico del juego contiene 60 cartas divididas equitativamente entre los cuatro reinos (15 cartas por elemento), incluyendo campeones, criaturas, hechizos y equipos con habilidades específicas coherentes con su elemento.
